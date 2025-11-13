@@ -216,7 +216,7 @@ git branch -d hotfix/VERSION
 Git Flow در کنار دستورات Git ساده کار می‌کند. از شاخه‌های 'support' بتا اجتناب کنید.
 
 ## منابع
-- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.fa_FA.html)
 - [مدل شاخه‌بندی Git اصلی](https://nvie.com/posts/a-successful-git-branching-model/)
 - [آموزش Git Flow Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [راهنمایی Git Flow AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-git-branch-approach/gitflow-branching-strategy.html)
