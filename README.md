@@ -1,5 +1,7 @@
 # Git Flow Tutorial
 
+[آموزش فارسی](README-fa.md)
+
 This repository is a personal learning resource for understanding and practicing Git Flow, a branching model for Git introduced by Vincent Driessen. Git Flow provides a structured way to manage feature development, releases, and hotfixes in a versioned software project. It uses a set of Git extensions to simplify high-level repository operations.
 
 While Git Flow has been popular for projects with explicit versioning and multiple supported releases, note that for modern continuous delivery (e.g., web apps), simpler trunk-based workflows are often recommended as best practices. This tutorial focuses on Git Flow for educational purposes, covering all possible commands, workflows, and details.
