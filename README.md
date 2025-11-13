@@ -218,3 +218,7 @@ Git Flow works alongside plain Git commands. Avoid the beta 'support' branches.
 - [AWS Git Flow Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-git-branch-approach/gitflow-branching-strategy.html)
 
 To practice, clone this repo and experiment with the commands!
+
+## Git Branching Model Diagram
+
+![Git Branching Model](https://nvie.com/img/git-model@2x.png)
